@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://test:test@ds135384.mlab.com:35384/testashish",
+    "database": "",
+    "password": "",
+    "name": "mlab",
+    "user": "",
+    "connector": "mongodb"
+  }
+}

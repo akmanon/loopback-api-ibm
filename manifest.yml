@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: apimedical
+  host: apimedical
+  disk_quota: 1024M
